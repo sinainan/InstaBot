@@ -1,0 +1,4 @@
+username = "" 
+password = "" 
+useracc = ""
+listname = "" 
